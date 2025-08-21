@@ -620,6 +620,17 @@
 		)
 		(uuid "277bc927-4a6e-412c-8c98-c3eceacd432c")
 	)
+	(text "PCB Stackup Requirement: 4 layer JLC04161H-7628"
+		(exclude_from_sim no)
+		(at 14.732 42.418 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9a93bf72-a8b8-460b-aac8-408704464a07")
+	)
 	(text "Microcontroller"
 		(exclude_from_sim no)
 		(at 75.692 16.764 0)
@@ -1742,8 +1753,8 @@
 		)
 	)
 	(sheet
-		(at 96.52 138.43)
-		(size 50.8 12.7)
+		(at 97.79 124.46)
+		(size 50.8 16.51)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1758,7 +1769,7 @@
 		)
 		(uuid "e502bd27-bca6-4b32-a9f3-d0c4c2e2cb5d")
 		(property "Sheetname" "3.3V Switching Regulator"
-			(at 96.52 137.7184 0)
+			(at 97.79 123.7484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1767,7 +1778,7 @@
 			)
 		)
 		(property "Sheetfile" "power_supply_switching_module_3.3V.kicad_sch"
-			(at 96.52 151.7146 0)
+			(at 97.79 141.5546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
