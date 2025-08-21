@@ -45,7 +45,7 @@
 			)
 			(layer "F.Mask"
 				(type "Top Solder Mask")
-				(color "Green")
+				(color "Blue")
 				(thickness 0.03048)
 				(material "JLC Mask")
 				(epsilon_r 3.8)
@@ -93,7 +93,7 @@
 			)
 			(layer "B.Mask"
 				(type "Bottom Solder Mask")
-				(color "Green")
+				(color "Blue")
 				(thickness 0.03048)
 				(material "JLC Mask")
 				(epsilon_r 3.8)
