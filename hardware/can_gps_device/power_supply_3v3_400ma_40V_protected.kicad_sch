@@ -1793,7 +1793,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0b2ff493-05c0-45c9-87e7-57560406c56c")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR025"
 			(at 153.67 109.22 0)
 			(effects
 				(font
@@ -1848,7 +1848,7 @@
 			)
 			(project "power_supply_3v3_400ma_40V_protected"
 				(path "/742f64ac-c4d8-4561-a2a9-e0e3f6f67ce8/7b74f6f5-1560-4843-a54e-584b3d17c5b1"
-					(reference "#PWR021")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -1951,7 +1951,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "46b7b789-1a02-426b-be2d-806fa8adbca5")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR022"
 			(at 115.57 91.44 0)
 			(effects
 				(font
@@ -2002,7 +2002,7 @@
 		(instances
 			(project ""
 				(path "/742f64ac-c4d8-4561-a2a9-e0e3f6f67ce8/7b74f6f5-1560-4843-a54e-584b3d17c5b1"
-					(reference "#PWR018")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -2018,7 +2018,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4a827fa8-a6b4-4f6e-b6a4-de2cfd00b4b3")
-		(property "Reference" "C12"
+		(property "Reference" "C11"
 			(at 151.13 95.2435 0)
 			(effects
 				(font
@@ -2077,7 +2077,7 @@
 			)
 			(project "power_supply_3v3_400ma_40V_protected"
 				(path "/742f64ac-c4d8-4561-a2a9-e0e3f6f67ce8/7b74f6f5-1560-4843-a54e-584b3d17c5b1"
-					(reference "C12")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -2099,7 +2099,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d81d01f-1786-47f3-bad5-ee6c45956245")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR028"
 			(at 189.23 92.71 0)
 			(effects
 				(font
@@ -2154,7 +2154,7 @@
 			)
 			(project "power_supply_3v3_400ma_40V_protected"
 				(path "/742f64ac-c4d8-4561-a2a9-e0e3f6f67ce8/7b74f6f5-1560-4843-a54e-584b3d17c5b1"
-					(reference "#PWR024")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -2177,7 +2177,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5458e375-f5ac-4882-ba64-831562fdc251")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR026"
 			(at 163.83 109.22 0)
 			(effects
 				(font
@@ -2232,7 +2232,7 @@
 			)
 			(project "power_supply_3v3_400ma_40V_protected"
 				(path "/742f64ac-c4d8-4561-a2a9-e0e3f6f67ce8/7b74f6f5-1560-4843-a54e-584b3d17c5b1"
-					(reference "#PWR022")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -2255,7 +2255,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "590869f8-df93-4552-9a16-ab2ea7c06a57")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR023"
 			(at 125.73 116.84 0)
 			(effects
 				(font
@@ -2310,7 +2310,7 @@
 			)
 			(project "power_supply_3v3_400ma_40V_protected"
 				(path "/742f64ac-c4d8-4561-a2a9-e0e3f6f67ce8/7b74f6f5-1560-4843-a54e-584b3d17c5b1"
-					(reference "#PWR019")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -2333,7 +2333,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "64aaa314-aa55-4db4-b8c0-f45f6590d69d")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR027"
 			(at 173.99 107.95 0)
 			(effects
 				(font
@@ -2388,7 +2388,7 @@
 			)
 			(project "power_supply_3v3_400ma_40V_protected"
 				(path "/742f64ac-c4d8-4561-a2a9-e0e3f6f67ce8/7b74f6f5-1560-4843-a54e-584b3d17c5b1"
-					(reference "#PWR023")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -2411,7 +2411,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6a4a8dd1-d5e5-4014-8ad6-d4d2acbf0334")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR029"
 			(at 189.23 116.84 0)
 			(effects
 				(font
@@ -2466,7 +2466,7 @@
 			)
 			(project "power_supply_3v3_400ma_40V_protected"
 				(path "/742f64ac-c4d8-4561-a2a9-e0e3f6f67ce8/7b74f6f5-1560-4843-a54e-584b3d17c5b1"
-					(reference "#PWR025")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -2489,7 +2489,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9449624c-d9ef-4456-b490-7ae3778a51df")
-		(property "Reference" "C11"
+		(property "Reference" "C10"
 			(at 140.97 95.2435 0)
 			(effects
 				(font
@@ -2548,7 +2548,7 @@
 			)
 			(project "power_supply_3v3_400ma_40V_protected"
 				(path "/742f64ac-c4d8-4561-a2a9-e0e3f6f67ce8/7b74f6f5-1560-4843-a54e-584b3d17c5b1"
-					(reference "C11")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -2652,7 +2652,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b402a1f1-623e-4d0a-b61f-9a44cd50d83e")
-		(property "Reference" "C13"
+		(property "Reference" "C12"
 			(at 176.53 93.9862 0)
 			(effects
 				(font
@@ -2711,7 +2711,7 @@
 			)
 			(project "power_supply_3v3_400ma_40V_protected"
 				(path "/742f64ac-c4d8-4561-a2a9-e0e3f6f67ce8/7b74f6f5-1560-4843-a54e-584b3d17c5b1"
-					(reference "C13")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -2734,7 +2734,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5c54536-dbcb-498a-b827-e2227cd908b8")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR024"
 			(at 143.51 109.22 0)
 			(effects
 				(font
@@ -2789,7 +2789,7 @@
 			)
 			(project "power_supply_3v3_400ma_40V_protected"
 				(path "/742f64ac-c4d8-4561-a2a9-e0e3f6f67ce8/7b74f6f5-1560-4843-a54e-584b3d17c5b1"
-					(reference "#PWR020")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)

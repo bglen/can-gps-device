@@ -228,8 +228,8 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.35,
-          "drill": 0.2
+          "diameter": 0.45,
+          "drill": 0.3
         }
       ],
       "zones_allow_external_fillets": false
@@ -678,16 +678,16 @@
       "Microcontroller"
     ],
     [
-      "7b74f6f5-1560-4843-a54e-584b3d17c5b1",
-      "3.3V Linear Regulator"
-    ],
-    [
       "b93d8d5a-c9dc-4552-9959-3cf22fd198ac",
       "CAN Transciever"
     ],
     [
       "43a9972b-cf0d-4376-a58f-5e3d25a0f170",
       "GPS Module"
+    ],
+    [
+      "e502bd27-bca6-4b32-a9f3-d0c4c2e2cb5d",
+      "3.3V Switching Regulator"
     ]
   ],
   "text_variables": {}

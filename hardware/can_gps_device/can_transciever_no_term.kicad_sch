@@ -1775,7 +1775,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "067f9346-395e-4968-aa1a-334a10839464")
-		(property "Reference" "TP5"
+		(property "Reference" "TP2"
 			(at 144.78 112.5219 0)
 			(effects
 				(font
@@ -1793,7 +1793,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 137.16 110.49 0)
 			(effects
 				(font
@@ -1831,7 +1831,7 @@
 			)
 			(project "can_transciever_no_term"
 				(path "/742f64ac-c4d8-4561-a2a9-e0e3f6f67ce8/b93d8d5a-c9dc-4552-9959-3cf22fd198ac"
-					(reference "TP5")
+					(reference "TP2")
 					(unit 1)
 				)
 			)
@@ -1853,7 +1853,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "102b4029-65d9-40f4-a6d0-9bd36008c543")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR024"
 			(at 162.56 88.9 0)
 			(effects
 				(font
@@ -1908,7 +1908,7 @@
 			)
 			(project "can_transciever_no_term"
 				(path "/742f64ac-c4d8-4561-a2a9-e0e3f6f67ce8/b93d8d5a-c9dc-4552-9959-3cf22fd198ac"
-					(reference "#PWR030")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -1930,7 +1930,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "111c1b9e-a426-4cc7-8be2-2aa9710b1e63")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR022"
 			(at 157.48 77.47 0)
 			(effects
 				(font
@@ -1985,7 +1985,7 @@
 			)
 			(project "can_transciever_no_term"
 				(path "/742f64ac-c4d8-4561-a2a9-e0e3f6f67ce8/b93d8d5a-c9dc-4552-9959-3cf22fd198ac"
-					(reference "#PWR028")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -2008,7 +2008,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "46f97011-b8cc-453b-a66d-9d0f0d351ab4")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR025"
 			(at 199.39 101.6 0)
 			(effects
 				(font
@@ -2064,7 +2064,7 @@
 			)
 			(project "can_transciever_no_term"
 				(path "/742f64ac-c4d8-4561-a2a9-e0e3f6f67ce8/b93d8d5a-c9dc-4552-9959-3cf22fd198ac"
-					(reference "#PWR031")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -2085,7 +2085,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4b24439b-b484-44f2-8a39-1bbe03a7a844")
-		(property "Reference" "U3"
+		(property "Reference" "U2"
 			(at 149.86 91.44 0)
 			(effects
 				(font
@@ -2162,7 +2162,7 @@
 			)
 			(project "can_transciever_no_term"
 				(path "/742f64ac-c4d8-4561-a2a9-e0e3f6f67ce8/b93d8d5a-c9dc-4552-9959-3cf22fd198ac"
-					(reference "U3")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -2185,7 +2185,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6d203e0c-adce-4a01-a9a0-4cb625e7fdc7")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR021"
 			(at 144.78 85.09 0)
 			(effects
 				(font
@@ -2240,7 +2240,7 @@
 			)
 			(project "can_transciever_no_term"
 				(path "/742f64ac-c4d8-4561-a2a9-e0e3f6f67ce8/b93d8d5a-c9dc-4552-9959-3cf22fd198ac"
-					(reference "#PWR027")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -2262,7 +2262,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f164ecc-e599-43a9-8fb0-c2ba1cd06cc4")
-		(property "Reference" "C14"
+		(property "Reference" "C10"
 			(at 138.43 85.0962 0)
 			(effects
 				(font
@@ -2321,7 +2321,7 @@
 			)
 			(project "can_transciever_no_term"
 				(path "/742f64ac-c4d8-4561-a2a9-e0e3f6f67ce8/b93d8d5a-c9dc-4552-9959-3cf22fd198ac"
-					(reference "C14")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -2344,7 +2344,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7986f75d-a8a5-485b-b898-a6243f0ec889")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR023"
 			(at 157.48 121.92 0)
 			(effects
 				(font
@@ -2399,7 +2399,7 @@
 			)
 			(project "can_transciever_no_term"
 				(path "/742f64ac-c4d8-4561-a2a9-e0e3f6f67ce8/b93d8d5a-c9dc-4552-9959-3cf22fd198ac"
-					(reference "#PWR029")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -2422,7 +2422,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "89e190a6-3e9e-4ee1-ab86-46d5e28ab5e5")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR020"
 			(at 135.89 96.52 0)
 			(effects
 				(font
@@ -2477,7 +2477,7 @@
 			)
 			(project "can_transciever_no_term"
 				(path "/742f64ac-c4d8-4561-a2a9-e0e3f6f67ce8/b93d8d5a-c9dc-4552-9959-3cf22fd198ac"
-					(reference "#PWR026")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -2499,7 +2499,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c335ac93-1a8b-46b8-9d40-603dd2005a43")
-		(property "Reference" "C15"
+		(property "Reference" "C11"
 			(at 165.1 77.4762 0)
 			(effects
 				(font
@@ -2558,7 +2558,7 @@
 			)
 			(project "can_transciever_no_term"
 				(path "/742f64ac-c4d8-4561-a2a9-e0e3f6f67ce8/b93d8d5a-c9dc-4552-9959-3cf22fd198ac"
-					(reference "C15")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -2580,7 +2580,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d99f16ae-40f5-4edd-826d-55ace33459df")
-		(property "Reference" "D4"
+		(property "Reference" "D3"
 			(at 187.198 89.154 90)
 			(effects
 				(font
@@ -2641,7 +2641,7 @@
 			)
 			(project "can_transciever_no_term"
 				(path "/742f64ac-c4d8-4561-a2a9-e0e3f6f67ce8/b93d8d5a-c9dc-4552-9959-3cf22fd198ac"
-					(reference "D4")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -2663,7 +2663,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e3933676-0a49-4901-a4e0-0d0a03ae7177")
-		(property "Reference" "TP4"
+		(property "Reference" "TP1"
 			(at 133.35 112.5219 0)
 			(effects
 				(font
@@ -2681,7 +2681,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 125.73 110.49 0)
 			(effects
 				(font
@@ -2719,7 +2719,7 @@
 			)
 			(project "can_transciever_no_term"
 				(path "/742f64ac-c4d8-4561-a2a9-e0e3f6f67ce8/b93d8d5a-c9dc-4552-9959-3cf22fd198ac"
-					(reference "TP4")
+					(reference "TP1")
 					(unit 1)
 				)
 			)
