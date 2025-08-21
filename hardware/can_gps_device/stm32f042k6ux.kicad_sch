@@ -2584,16 +2584,6 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 54.61) (xy 215.9 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2b6edae6-40ac-4ad9-91fd-56ae5bb25911")
-	)
-	(wire
-		(pts
 			(xy 35.56 135.89) (xy 67.31 135.89)
 		)
 		(stroke
@@ -2611,6 +2601,16 @@
 			(type default)
 		)
 		(uuid "2f01eb80-6c99-4aa6-911b-e53f0bc4c6b1")
+	)
+	(wire
+		(pts
+			(xy 213.36 54.61) (xy 215.9 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f16fd1b-aa9c-411e-80ae-a8ff9b34b94f")
 	)
 	(wire
 		(pts
@@ -2934,16 +2934,6 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 59.69) (xy 215.9 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "99fc966c-789e-49fa-b72c-da4de3bcc267")
-	)
-	(wire
-		(pts
 			(xy 119.38 77.47) (xy 121.92 77.47)
 		)
 		(stroke
@@ -2951,16 +2941,6 @@
 			(type default)
 		)
 		(uuid "a15f030c-c212-452c-aec5-2a471a1d4c15")
-	)
-	(wire
-		(pts
-			(xy 213.36 57.15) (xy 215.9 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a342d31d-ffcb-4320-8db7-cb67d4f8ce7a")
 	)
 	(wire
 		(pts
@@ -3094,6 +3074,16 @@
 	)
 	(wire
 		(pts
+			(xy 213.36 57.15) (xy 215.9 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4e31547-5d0b-4e41-b7c0-c7c1139a0f34")
+	)
+	(wire
+		(pts
 			(xy 74.93 72.39) (xy 74.93 74.93)
 		)
 		(stroke
@@ -3171,6 +3161,16 @@
 			(type default)
 		)
 		(uuid "e09ae5d1-248f-4815-983b-bc218024aa37")
+	)
+	(wire
+		(pts
+			(xy 213.36 59.69) (xy 215.9 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0e17ea8-bf09-44b5-a87c-98b991187810")
 	)
 	(wire
 		(pts
@@ -8354,7 +8354,7 @@
 	)
 	(hierarchical_label "GNSS_TIMEPULSE"
 		(shape input)
-		(at 213.36 54.61 180)
+		(at 213.36 59.69 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8365,7 +8365,7 @@
 	)
 	(hierarchical_label "GNSS_RESET"
 		(shape output)
-		(at 213.36 57.15 180)
+		(at 213.36 54.61 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8409,7 +8409,7 @@
 	)
 	(hierarchical_label "GNSS_WAKE_ON_MOTION"
 		(shape input)
-		(at 213.36 59.69 180)
+		(at 213.36 57.15 180)
 		(effects
 			(font
 				(size 1.27 1.27)
